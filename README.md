@@ -21,5 +21,5 @@ Here have all the dependencies that you need to use it...
 ```
 
 # Observation
-  Change the file( .env_sample) to .env
+  Change the file( .env_sample) to .env, and complete using your own data.
 -
